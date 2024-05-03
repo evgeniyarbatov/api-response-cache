@@ -1,0 +1,6 @@
+{
+  "BaseUrl": "http://127.0.0.1:8000/api?userid=%d",
+  "Tps": 5,
+  "UserCount": 3,
+  "RequestCount": 100
+}

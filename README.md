@@ -1,7 +1,20 @@
-# Simple API Cache
+# API Response Cache
 
-Cache API response which varies with time
+Predict API response cache to adjust cache TTL.
 
+## Steps
 
+Start server:
 
+```
+cd server
+fastapi dev main.py
+```
+
+Start client:
+
+```
+cd client
+go run *.go
+```
 

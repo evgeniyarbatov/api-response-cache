@@ -1,1 +1,0 @@
-- Make a quick demo to understand if this makes sense because we do not know the source of data, we are trying to model it
